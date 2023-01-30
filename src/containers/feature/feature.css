@@ -1,0 +1,42 @@
+.text_title-parent {
+  margin: 2rem;
+}
+.text_title {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.text_title h3 {
+  color: rgb(255, 0, 234);
+  font-weight: 700;
+  font-family: var(--font-family);
+  flex: 0.35;
+  letter-spacing: 1px;
+}
+.text_title p {
+  flex: 0.65;
+  color: var(--color-text);
+  font-weight: lighter;
+}
+.title2 {
+  margin: 2rem 2rem;
+}
+@media screen and (max-width: 950px) {
+  .text_title {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .text_title p {
+    text-align: start;
+  }
+}
+@media screen and (max-width: 450px) {
+  .text_title p {
+    font-size: 12px;
+    letter-spacing: 1.1px;
+  }
+  .title2 {
+    font-size: 14px;
+    letter-spacing: 1.1px;
+  }
+}
