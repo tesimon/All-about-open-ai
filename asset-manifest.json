@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/All-about-open-ai/static/css/main.0d68b727.css",
-    "main.js": "/All-about-open-ai/static/js/main.f16259a7.js",
+    "main.css": "/All-about-open-ai/static/css/main.a2ae14f7.css",
+    "main.js": "/All-about-open-ai/static/js/main.269e16c8.js",
     "static/media/blog03.png": "/All-about-open-ai/static/media/blog03.d922323861096f25274f.png",
     "static/media/32540-4-technology-hd.png": "/All-about-open-ai/static/media/32540-4-technology-hd.b49924e75403f3b8633d.png",
     "static/media/blog04.png": "/All-about-open-ai/static/media/blog04.742c1357e7b6c11078e6.png",
@@ -10,13 +10,13 @@
     "static/media/Science-And-Technology.png": "/All-about-open-ai/static/media/Science-And-Technology.ceca2bac7b9e834aab66.png",
     "static/media/7-2-technology-picture.png": "/All-about-open-ai/static/media/7-2-technology-picture.3dbe6e71f9cb483ef70d.png",
     "static/media/people.png": "/All-about-open-ai/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/All-about-open-ai/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/logo.svg": "/All-about-open-ai/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/All-about-open-ai/index.html",
-    "main.0d68b727.css.map": "/All-about-open-ai/static/css/main.0d68b727.css.map",
-    "main.f16259a7.js.map": "/All-about-open-ai/static/js/main.f16259a7.js.map"
+    "main.a2ae14f7.css.map": "/All-about-open-ai/static/css/main.a2ae14f7.css.map",
+    "main.269e16c8.js.map": "/All-about-open-ai/static/js/main.269e16c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d68b727.css",
-    "static/js/main.f16259a7.js"
+    "static/css/main.a2ae14f7.css",
+    "static/js/main.269e16c8.js"
   ]
 }
