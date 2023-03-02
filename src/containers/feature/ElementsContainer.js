@@ -1,5 +1,3 @@
-import "../../containers/feature/feature.css";
-
 export const FeatureData = [
   {
     id: 1,
@@ -27,10 +25,3 @@ export const FeatureData = [
             velit o dit exercitationem eius illum repudiandae voluptate ipsa`,
   },
 ];
-
-// export const Myjsx = ({ text, title }) => (
-//   <div className="mydiv">
-//     <h3>{title}</h3>
-//     <p>{text}</p>
-//   </div>
-// );

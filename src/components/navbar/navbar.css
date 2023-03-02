@@ -51,11 +51,10 @@
   background: -o-linear-gradient(to bottom, #a30d74, #113b66);
   color: #fff;
   padding: 10px 20px;
-  border-radius: 30px;
+  border-radius: 12px;
   border: none;
   font-size: 16px;
-  box-shadow: 0px 5px 10px #ccc;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   font-family: var(--font-family);
 }
 .gpt3__navbar-sign button:hover {
@@ -63,7 +62,7 @@
   background: -webkit-linear-gradient(to bottom, #98204e, #c70bce);
   background: -moz-linear-gradient(to bottom, #652787e3, #9b0cca);
   background: -o-linear-gradient(to bottom, #a31576, #164e86);
-  box-shadow: 0px 10px 15px #ccc;
+  box-shadow: 0px 2px 3px #000000de;
   transform: translateY(-2px);
   cursor: pointer;
 }
@@ -95,7 +94,6 @@
 
 .gpt3__navbar-menu_container a {
   color: #fff;
-  /* margin: 1rem 0; */
 }
 .gpt3__navbar-menu_container p {
   margin: 1rem;

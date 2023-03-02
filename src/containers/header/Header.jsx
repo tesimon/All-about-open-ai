@@ -31,7 +31,7 @@ const Header = () => {
         </div>
       </div>
       <div className="ai__picture">
-        <img src={Ai} alt="ai" className="mask" />
+        <img src={Ai} alt="ai" />
       </div>
     </div>
   );
